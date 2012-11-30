@@ -156,6 +156,11 @@ ul.posts {
 
   /* standard */
 
+  #post h2 {
+    font: 14px;
+    font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
+  }
+
   #post pre {
     border: 1px solid #ddd;
     background-color: #eef;
