@@ -19,7 +19,7 @@ body {
   background-color: white;
   /*font: 12px helvetica, arial, clean, sans-serif;*/
   font: 10px;
-  font-family: 'Helvetica Neue', Helvetica ,Arial,Sans-serif;
+  font-family: 'Helvetica Neue', Helvetica ,Arial, Sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -155,6 +155,11 @@ ul.posts {
 }
 
   /* standard */
+  #post {
+    font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
+	font-size: 10px
+	line-height: 150%
+  }
 
   #post h2 {
     font: 16px;
