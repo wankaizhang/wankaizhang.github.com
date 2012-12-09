@@ -150,15 +150,11 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-#post {
-
-}
-
   /* standard */
   #post {
     font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
-	font-size: 10px
-	line-height: 150%
+	font-size: 10px;
+	line-height: 150%;
   }
 
   #post h2 {
