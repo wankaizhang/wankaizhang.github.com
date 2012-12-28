@@ -19,7 +19,6 @@ body {
   background-color: white;
   font-family: "Courier New", Georgia, "Times New Roman", serif
   font-size: 62.5%;
-  /*font-family: 'Helvetica Neue', Helvetica ,Arial, Sans-serif; */
   text-align: center;
 }
 
@@ -149,8 +148,8 @@ ul.posts {
 
   /* standard */
   #post {
-	font-size: 1.4em;
-	line-height: 1.4em;
+	font-size: 14px;
+	line-height: 14px;
   }
 
   #post h2 {
