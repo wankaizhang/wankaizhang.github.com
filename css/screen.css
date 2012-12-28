@@ -17,13 +17,13 @@ html, body {
 
 body {
   background-color: white;
-  font-family: "Courier New", Georgia, "Times New Roman", serif
-  font-size: 62.5%;
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  *font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  /*font-size: 100%;*/
+  font-size: 100%;
 }
 
 h1 {
@@ -68,7 +68,8 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: "Courier New", monospace;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
   }
 
 /*****************************************************************************/
@@ -78,6 +79,7 @@ ul.posts {
 /*****************************************************************************/
 
 .site {
+  font-size: 110%;
   text-align: justify;
   width: 40em;
   margin: 3em auto 2em auto;
@@ -146,16 +148,11 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-  /* standard */
-  #post {
-	font-size: 14px;
-	line-height: 14px;
-  }
+#post {
 
-  #post h2 {
-    font: 1.6em;
-    font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
-  }
+}
+
+  /* standard */
 
   #post pre {
     border: 1px solid #ddd;
