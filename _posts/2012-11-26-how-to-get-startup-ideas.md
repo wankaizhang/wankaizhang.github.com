@@ -4,7 +4,8 @@ layout: post
 
 #怎样获得创业idea
 
-![img] (/images/startup-idea.jpg "引用")
+<img src="/images/startup-idea.jpg" /><br />
+
 人人都想有个好的创业idea，但是刻意去想是想不出好点子的，要去发现问题，特别是你自身面对的问题。
 
 最好的idea一般有下面三个特征：它是创始人需要的东西，创始人有能力去实现，几乎没人觉得这个idea值得去做。Microsoft, Apple, Yahoo, Google, Facebook都是这样开始的。
