@@ -63,7 +63,7 @@ ul.posts {
 }
 
   ul.posts li {
-    line-height: 2em;
+    line-height: 1.73em;
   }
 
   ul.posts span {
@@ -83,7 +83,7 @@ ul.posts {
   text-align: justify;
   width: 40em;
   margin: 3em auto 2em auto;
-  line-height: 1.5em;
+  line-height: 1.73em;
 }
 
 .title {
