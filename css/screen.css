@@ -17,9 +17,8 @@ html, body {
 
 body {
   background-color: white;
-  /*font: 12px helvetica, arial, clean, sans-serif;*/
-  font-family: Georgia, "Times New Roman", serif
-  font-size: 14px;
+  font-family: "Courier New", Georgia, "Times New Roman", serif
+  font-size: 62.5%;
   /*font-family: 'Helvetica Neue', Helvetica ,Arial, Sans-serif; */
   text-align: center;
 }
@@ -152,12 +151,12 @@ ul.posts {
 
   /* standard */
   #post {
-	font-size: 14px;
-	line-height: 150%;
+	font-size: 1.4em;
+	line-height: 1.4em;
   }
 
   #post h2 {
-    font: 16px;
+    font: 1.6em;
     font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
   }
 
