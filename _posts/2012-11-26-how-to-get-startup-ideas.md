@@ -4,7 +4,7 @@ layout: post
 
 #怎样获得创业idea
 
-<img src="/images/startup-idea.jpg" /><br />
+<img align="middle" src="/images/startup-idea.jpg" /><br />
 
 人人都想有个好的创业idea，但是刻意去想是想不出好点子的，要去发现问题，特别是你自身面对的问题。
 
