@@ -168,4 +168,4 @@ Paul Buchheit形容那些处在日新月异领域前沿的人为“live in the f
 ## 批注
 这篇文章本身是个悖论，一旦你看这篇文章，你就不是作者说的那种有机的人了，你在look for, 在think of
 
-原文链接 http://paulgraham.com/startupideas.html
+原文链接 <a href="http://paulgraham.com/startupideas.html">http://paulgraham.com/startupideas.html</a>
