@@ -165,3 +165,5 @@ Paul Buchheit形容那些处在日新月异领域前沿的人为“live in the f
 
 “Live in the future and build what seems interesting”，虽然听起来有点儿忽悠人，但这就是答案。
 
+## 批注
+这篇文章本身是个悖论，一旦你看这篇文章，你就不是作者说的那种有机的人了，你在look for, 在think of
